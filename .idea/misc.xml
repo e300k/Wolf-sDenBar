@@ -3,12 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Nyanp/Wolf-sDenBar/app/src/main/res/layout/activity_main.xml" value="0.35625" />
+        <entry key="..\:/Users/Nyanp/Wolf-sDenBar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2645" />
+        <entry key="..\:/Users/Nyanp/Wolf-sDenBar/app/src/main/res/drawable/bg.xml" value="0.1565" />
+        <entry key="..\:/Users/Nyanp/Wolf-sDenBar/app/src/main/res/drawable/bg_start.xml" value="0.2645" />
+        <entry key="..\:/Users/Nyanp/Wolf-sDenBar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2645" />
+        <entry key="..\:/Users/Nyanp/Wolf-sDenBar/app/src/main/res/drawable/test.xml" value="0.1565" />
+        <entry key="..\:/Users/Nyanp/Wolf-sDenBar/app/src/main/res/layout/activity_loading_screen_main.xml" value="0.1" />
+        <entry key="..\:/Users/Nyanp/Wolf-sDenBar/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Nyanp/Wolf-sDenBar/app/src/main/res/layout/login_screen.xml" value="0.35625" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
